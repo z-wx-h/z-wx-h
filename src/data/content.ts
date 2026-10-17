@@ -13,7 +13,7 @@ export const site = {
   // 文件放在 public/media/，路径以 /media/ 开头
   heroMedia: {
     kind: "gif" as "gif" | "video",
-    gifSrc: "/media/hero.jpg",
+    gifSrc: "/media/hero.gif",
     videoSrc: "/media/hero.mp4",
     posterSrc: "/media/hero-poster.jpg",
     alt: "AI 漫剧成片循环画面",
