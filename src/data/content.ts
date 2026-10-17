@@ -12,8 +12,8 @@ export const site = {
   // 首屏红线区域循环画面：kind 用 "gif" 或 "video"
   // 文件放在 public/media/，路径以 /media/ 开头
   heroMedia: {
-    kind: "video" as "gif" | "video",
-    gifSrc: "/media/hero.gif",
+    kind: "gif" as "gif" | "video",
+    gifSrc: "/media/hero.jpg",
     videoSrc: "/media/hero.mp4",
     posterSrc: "/media/hero-poster.jpg",
     alt: "AI 漫剧成片循环画面",
