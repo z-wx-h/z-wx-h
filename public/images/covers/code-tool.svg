@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" fill="none">
+  <rect width="960" height="540" fill="#0b1020"/>
+  <rect x="140" y="80" width="680" height="380" rx="14" fill="#020617" stroke="#22d3ee" opacity="0.8"/>
+  <text x="180" y="150" fill="#5eead4" font-size="28" font-family="monospace">&gt; serial.connect()</text>
+  <text x="180" y="210" fill="#94a3b8" font-size="22" font-family="monospace">9600 8N1 ready</text>
+</svg>
